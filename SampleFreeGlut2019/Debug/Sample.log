@@ -1,0 +1,23 @@
+﻿  sample.cpp
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\keytime.cpp(128,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\keytime.cpp(132,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\keytime.cpp(133,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(347,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(354,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(365,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(366,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(369,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(370,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(390,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(391,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(403,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(404,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(444,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(476,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(507,40): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(673,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(674,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(729,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\sample.cpp(737,30): warning C4305: 'argument': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\logan\Desktop\Fall 2021\CS450\Final Project\SampleFreeGlut2019\.\Debug\Sample.exe
